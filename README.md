@@ -12,6 +12,12 @@ An end-to-end exploratory and predictive data analytics project analyzing **19,1
 
 * **Primary Objective:** Determine what factors genuinely predict game outcomes prior to move 1, and benchmark them against classical chess theory.
 
+## 📚 Dataset Source 
+
+**Kaggle Link:**
+
+* <a id="[implementation-details](https://www.kaggle.com/datasets/datasnaek/chess)"></a>
+    
 ## 🎯 Key Findings
 
 | Metric / Question | Key Result | Takeaway | 
