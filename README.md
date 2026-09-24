@@ -50,6 +50,7 @@ An end-to-end exploratory and predictive data analytics project analyzing **19,1
 ├── AnaySinha_LichessChessAnalytics.ipynb     # Complete analysis & visualizations
 ├── README.md                                 # Project documentation
 ├── requirements.txt                          # Dependencies
+├── Anay Sinha_ProjectReport.docx             # Comprehensive 10-page final project report
 └── chess_game-analysis.html                  # Exported HTML version of Jupyter Notebook
 
 ```
