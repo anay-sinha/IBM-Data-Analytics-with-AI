@@ -14,9 +14,7 @@ An end-to-end exploratory and predictive data analytics project analyzing **19,1
 
 ## 📚 Dataset Source 
 
-**Kaggle Link:**
-
-* <a id="[implementation-details](https://www.kaggle.com/datasets/datasnaek/chess)"></a>
+**Kaggle Link:<a id="[implementation-details](https://www.kaggle.com/datasets/datasnaek/chess)"></a>**
     
 ## 🎯 Key Findings
 
