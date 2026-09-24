@@ -60,7 +60,7 @@ An end-to-end exploratory and predictive data analytics project analyzing **19,1
 
    ```
    git clone https://github.com/anay-sinha/IBM-Data-Analytics-with-AI-Lichess-Chess-Analytics.git
-   cd lichess-chess-analytics
+   cd IBM-Data-Analytics-with-AI-Lichess-Chess-Analytics
    
    ```
 
