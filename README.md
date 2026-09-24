@@ -59,7 +59,7 @@ An end-to-end exploratory and predictive data analytics project analyzing **19,1
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/your-username/lichess-chess-analytics.git
+   git clone https://github.com/anay-sinha/lichess-chess-analytics.git
    cd lichess-chess-analytics
    
    ```
