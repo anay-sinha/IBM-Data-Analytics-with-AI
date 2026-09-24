@@ -46,11 +46,11 @@ An end-to-end exploratory and predictive data analytics project analyzing **19,1
 ## 📂 Repository Structure
 
 ```
-├── games.csv                      # Dataset (20k games)
-├── chess_games_analysis.ipynb     # Complete analysis & visualizations
-├── README.md                      # Project documentation
-├── requirements.txt               # Dependencies
-└── report.docx                    # Comprehensive project report
+├── games.csv                                 # Dataset (20k games)
+├── AnaySinha_LichessChessAnalytics.ipynb     # Complete analysis & visualizations
+├── README.md                                 # Project documentation
+├── requirements.txt                          # Dependencies
+└── chess_game-analysis.html                  # Exported HTML version of Jupyter Notebook
 
 ```
 
@@ -74,6 +74,6 @@ An end-to-end exploratory and predictive data analytics project analyzing **19,1
 3. **Run the analysis:**
 
    ```
-   jupyter notebook chess_games_analysis.ipynb
+   jupyter notebook AnaySinha_LichessChessAnalytics.ipynb
    
    ```
